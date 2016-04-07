@@ -16,7 +16,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "babel": "babel src -d dist"
   },
-  "keywords": ["firebase", "rest"],
+  "keywords": [
+    "firebase",
+    "rest"
+  ],
   "author": "JD Isaacks",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/class-ideas/firebase-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/class-ideas/firebase-api/issues"
+  },
+  "homepage": "https://github.com/class-ideas/firebase-api#readme"
 }
